@@ -82,4 +82,4 @@
 // }
 // salarioImposto()
 
-// console.log(`O seu salário era ${salario}, com o reajuste de 10% ficou ${salarioReajustado}, e com o imposto de 6% sendo descontado você receberá ${salarioReajustado - salImpostoReajustado} no final do mês.`)
+// console.log(`O seu salário era ${salario} reais, com o reajuste de 10% ficou ${salarioReajustado} reais, com o imposto de 6% sendo descontado você receberá ${salarioReajustado - salImpostoReajustado} reais no final do mês.`)
